@@ -1,0 +1,6 @@
+{
+  "id": "PENITENT_CI_GRACIA",
+  "name": "Bronze Gracia",
+  "author": "Camilo",
+  "version": "1.0.0"
+}
